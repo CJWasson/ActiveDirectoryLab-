@@ -1,4 +1,3 @@
-# ActiveDirectoryLab-
 $disks                      = Get-Disk
 $global:DISKPART_SCRIPT     = "unattend.txt"
 $global:disk_Id_To_Sanitize = "xxx"
